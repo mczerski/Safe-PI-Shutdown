@@ -1,25 +1,43 @@
-EAGLE AutoRouter Statistics:
-
-Job           : /home/marek/eagle/safe_pi_shutdown/safe_pi_shutdown.brd
-
-Start at      : 00:08:19 (27.04.2017)
-End at        : 00:08:37 (27.04.2017)
-Elapsed time  : 00:00:18
-
-Signals       :    32   RoutingGrid: 6.25 mil  Layers: 2
-Connections   :    80   predefined:  38 ( 12 Vias )
-
-Router memory :   639108
-
-Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
-
-Time per pass     :  00:00:14  00:00:01  00:00:01  00:00:01  00:00:01
-Number of Ripups  :        10         0         0         0         0
-max. Level        :         2         0         0         0         0
-max. Total        :         5         0         0         0         0
-
-Routed            :        36        36        36        36        36
-Vias              :        24        11        12        10        10
-Resolution        :    92.5 %    92.5 %    92.5 %    92.5 %    92.5 %
-
-Final             : 82.5% finished. Polygons may have fallen apart.
+update=nie, 13 sty 2019, 01:03:25
+version=1
+last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
+[pcbnew]
+version=1
+LastNetListRead=
+UseCmpFile=1
+PadDrill=0.600000000000
+PadDrillOvalY=0.600000000000
+PadSizeH=1.500000000000
+PadSizeV=1.500000000000
+PcbTextSizeV=1.500000000000
+PcbTextSizeH=1.500000000000
+PcbTextThickness=0.300000000000
+ModuleTextSizeV=1.000000000000
+ModuleTextSizeH=1.000000000000
+ModuleTextSizeThickness=0.150000000000
+SolderMaskClearance=0.000000000000
+SolderMaskMinWidth=0.000000000000
+DrawSegmentWidth=0.200000000000
+BoardOutlineThickness=0.100000000000
+ModuleOutlineThickness=0.150000000000
+[cvpcb]
+version=1
+NetIExt=net
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=empty.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1

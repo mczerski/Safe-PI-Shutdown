@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name safe_pi_shutdown-eagle-import)(type Legacy)(uri ${KIPRJMOD}/safe_pi_shutdown-eagle-import.lib)(options "")(descr ""))
+)
