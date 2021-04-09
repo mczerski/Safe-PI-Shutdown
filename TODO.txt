@@ -1,0 +1,2 @@
+1. kondensatory C5, C6 22uF są nie potrzebne. zamiast nich powinny być ceramiczne X7R
+2. kondensatory powinny być lepiej umiejscowione wokół mic2876. Generalnie przejrzeć rekomendacje routingu co do MIC2876
